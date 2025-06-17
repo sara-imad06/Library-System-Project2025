@@ -7,6 +7,7 @@ This repository contains a Bookstore Management System developed as a course pro
 - Search by book name or bin number
 - Save/load data from a file
 - Simple console-based user interface
+- 
   
 Developed as part of Birzeit University's Computer Engineering curriculum – Spring 2025.
 
